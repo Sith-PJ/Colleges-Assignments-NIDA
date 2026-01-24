@@ -1,0 +1,6 @@
+n = input('Please enter a number: ')
+print('   *')
+print(' ', n * 3)
+print('', n * 5)
+print(n * 7)
+print('  ', n)
