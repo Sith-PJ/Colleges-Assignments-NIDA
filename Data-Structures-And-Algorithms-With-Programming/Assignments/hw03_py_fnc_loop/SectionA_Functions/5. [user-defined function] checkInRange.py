@@ -1,3 +1,11 @@
+"""
+Write a function isInRange() to check whether a number falls within a given range.  
+Write a program to test the function.
+
+Source: https://www.w3resource.com/python-exercises/python-functions
+exercises.php
+"""
+
 def isInRange(lower_bound, upper_bound, number):
     return lower_bound <= number <= upper_bound
 

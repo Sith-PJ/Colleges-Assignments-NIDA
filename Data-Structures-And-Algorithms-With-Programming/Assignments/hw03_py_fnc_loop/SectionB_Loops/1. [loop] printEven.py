@@ -1,3 +1,8 @@
+"""
+Write a program that asks for begin and end and prints only even numbers between 
+them (exclusive).
+"""
+
 begin = int(input("Begin: "))
 end = int(input("End: "))
 i = begin
